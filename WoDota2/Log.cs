@@ -22,9 +22,6 @@ namespace WoDota2
             Console.WriteLine("Хп Жреца противника:" + AllCharacters[3].HPP);
             Console.WriteLine("Хп Шамана противника:" + AllCharacters[5].HPP);
             Console.WriteLine("Хп Разбойника противника:" + AllCharacters[7].HPP);
-
-         
-
         }
     }
 }
